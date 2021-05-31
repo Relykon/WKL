@@ -1,11 +1,12 @@
 import React from 'react';
 
-
-
 const Rules = () => {
 
   return (
-    <h1> Rules Rule! </h1>
+    <div>
+      <h1> Rules Rule! </h1>
+      <p>1. No hitting people in the head, like hard.  If a player is sliding/dodging/head ends up where you wouldn't normally expect a head to be, you should do your best to avoid the head, but a head shot will still be an out. </p>
+    </div>
   );
 };
 
